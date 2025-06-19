@@ -1,0 +1,14 @@
+# Ignore artifacts:
+build
+coverage
+/.vscode
+/node_modules
+./dist
+.localdevserver
+.sfdx
+coverage/
+.vscode
+jsconfig.json
+.env
+*.env
+.env.*
